@@ -16,7 +16,7 @@ let last = ""
 const qrOptions = {
     errorCorrectionLevel: 'H',
     type: 'terminal',
-    scale: 10,
+    scale: 16,
     margin: 1,
     color: {
         light: '#A020F0'
@@ -49,7 +49,7 @@ app.get('/', async (req, res) => {
         let things = []
         if(f.length !== 0) {
             f.forEach((file, ind) => {
-                qr.toDataURL(`http://${ip[0]}:${port}/install?file=${file}`, qrOptions, (err, src) => {
+                qr.toDataURL(`http://${ip}:${port}/install?file=${file}`, qrOptions, (err, src) => {
                     if(err) reject(err)
                     things.push({
                         img: src,
