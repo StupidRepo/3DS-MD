@@ -1,8 +1,8 @@
-# 3DS Theme Downloader (3DS TD)
-An easy-to-use theme downloader for the 3DS.
+# 3DS Multi-Downloader (3DS MD)
+An easy-to-use theme, .cia and .3dsx installer for the 3DS.
 
 # Setup
-To start using 3DS TD, follow the steps that correspond with your OS (operating system).
+To start using 3DS MD, follow the steps that correspond with your OS (operating system).
 ### WARNING!
 When downloading the .ZIP file (from this GitHub repository) and extracting it, make sure to make a folder called (exactly) `themes` (all lower case) in the folder it extracted to!
 ### Windows
@@ -23,7 +23,7 @@ When downloading the .ZIP file (from this GitHub repository) and extracting it, 
 * Click the Code button, and then Download ZIP in the dropdown on this GitHub repository's main page.
 * Extract the ZIP that it downloads.
 * Open the folder that was extracted (a.k.a root folder) and put your theme's .ZIP file in the `theme` folder.
-* Open `Terminal.app`, and type `cd` (then a space) and drag the root - If you extracted the root folder to your Desktop, it should look like this: `cd /Users/.../Desktop/3DS-TD/` (the folder might be named differently)
+* Open `Terminal.app`, and type `cd` (then a space) and drag the root - If you extracted the root folder to your Desktop, it should look like this: `cd /Users/.../Desktop/3DS-MD/` (the folder might be named differently)
 * Press Enter, then type `chmod +x installM.sh` and press Enter.
 * Then type `chmod +x runM.sh` and press Enter.
 * Close Terminal.app
