@@ -19,7 +19,6 @@ const qrOptions = {
     scale: 16,
     margin: 1,
     color: {
-        light: '#A020F0'
     }
 }
 
