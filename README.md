@@ -4,7 +4,7 @@ An easy-to-use theme, .cia and .3dsx installer for the 3DS.
 # Setup
 To start using 3DS MD, follow the steps that correspond with your OS (operating system).
 ### WARNING!
-When downloading the .ZIP file (from this GitHub repository) and extracting it, make sure to make a folder called (exactly) `themes` (all lower case) in the folder it extracted to!
+When downloading the .ZIP file (from this GitHub repository) and extracting it, make sure to make a folder called (exactly) `3ds` (all lower case) in the folder it extracted to!
 ### Windows
 * Download the .msi (Windows Installer) from [here](https://nodejs.org/en/download/), and run it.
 * Follow the steps to install Node.JS, this should also install `npm`.
