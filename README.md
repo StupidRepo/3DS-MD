@@ -2,7 +2,7 @@
 An easy-to-use theme downloader for the 3DS.
 
 # Setup
-To start using 3DS TD, follow the steps that corrospond with your OS (operating system).
+To start using 3DS TD, follow the steps that correspond with your OS (operating system).
 ### WARNING!
 When downloading the .ZIP file (from this GitHub repository) and extracting it, make sure to make a folder called (exactly) `themes` (all lower case) in the folder it extracted to!
 ### Windows
